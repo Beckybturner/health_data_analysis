@@ -1,4 +1,4 @@
-This jupyter notebook opens and analyses a document containing health data across multiple countries. My aim was to initially to understand the data in order to pick out variables which could be compared.
+This jupyter notebook opens and analyses a document containing health data across multiple countries. My aim was to initially to understand the data and clean it in order to pick out variables which could be compared.
 
 User details:
 The following packages are needed - numpy, seaborn, matplotlib.pyplot and pandas
